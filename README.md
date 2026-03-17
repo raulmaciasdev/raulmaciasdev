@@ -34,10 +34,11 @@ Con más de diez años de experiencia transformando ideas en código, hoy me enf
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 [![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)]()
 
-#### 🗄️ Data & Tools
-[![PostgreSQL](https://img.shields.6io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]()
+#### 🗄️ Data & Cloud Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoft-azure-sql-database&logoColor=white)]()
+[![Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-4479A1?style=for-the-badge&logo=azure-cosmos-db&logoColor=white)]()
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)]()
-[![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)]()
 
 ---
 
