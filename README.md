@@ -51,10 +51,3 @@ Con más de diez años de experiencia transformando ideas en código, hoy me enf
 ### 📫 Contacto
 * **LinkedIn:** [Tu Perfil Aquí]
 * **Web/Blog:** [Tu Web Aquí]
-
-  ``
-### 📜 Certifications
-* **Microsoft Certified: Azure Developer Associate (AZ-204)**
-* **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
-* **GitHub Foundations**
-  ``
