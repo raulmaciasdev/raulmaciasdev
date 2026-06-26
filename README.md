@@ -1,16 +1,16 @@
 # 👋 Hola, soy Raúl Macías
-## Senior Software Engineer | .NET Specialist | Cloud Architect & Agentic AI Developer
+## Full Stack Software Developer | .NET & React Specialist 
 
-Con más de diez años de experiencia transformando ideas en código, hoy me enfoco en construir soluciones escalables en entornos Multi-Cloud, interfaces modernas y el diseño de arquitecturas de IA avanzadas basadas en agentes autónomos e integración de herramientas.
+Desarrollador de software con sólida experiencia transformando requerimientos complejos en aplicaciones robustas, eficientes y escalables. Centrado en el diseño de arquitecturas limpias en el backend, la creación de interfaces de usuario interactivas y la optimización de flujos de datos.
 
 ---
 
 ### 🚀 Mi Enfoque Actual
-* **Backend:** Arquitecturas limpias y microservicios con **.NET 9/10**.
-* **Cloud:** Estrategias y despliegues robustos en **Microsoft Azure** y **Amazon Web Services (AWS)**.
-* **Frontend:** Migración de aplicaciones corporativas y creación de experiencias de alto rendimiento con **React** y **Blazor WebAssembly (WASM)**.
-* **AI & Agentic Workflows:** Desarrollo de sistemas basados en **Agentes de IA**, implementación de herramientas personalizadas y servidores de contexto utilizando **Model Context Protocol (MCP)**.
-* **AI Efficiency:** Optimización de workflows de desarrollo reduciendo el consumo de tokens y mejorando la gestión del contexto para LLMs.
+* **Backend:** Desarrollo de APIs y lógica de negocio sólida utilizando **.NET Core** y C#.
+* **Frontend:** Creación de páneles interactivos y componentes dinámicos (como tableros Kanban) con **React** y **TypeScript**.
+* **Bases de Datos:** Diseño de esquemas eficientes, optimización de consultas y automatización mediante triggers y lógica en **SQL Server**.
+* **Cloud** & **DevOps**: Gestión de servicios en entornos **AWS** y **Azure**, y containerización de arquitecturas con **Docker**.
+* **Continuous Learning:** Actualmente expandiendo horizontes en el ecosistema Cloud hacia la certificación **AWS Certified Developer – Associate** y perfeccionando mi **inglés** profesional.
 
 ---
 
@@ -20,31 +20,18 @@ Con más de diez años de experiencia transformando ideas en código, hoy me enf
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)]()
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)]()
-[![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)]()
-
-#### ☁️ Multi-Cloud & DevOps
-[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)]()
-
-#### 🤖 Agentic AI & LLMs (The Present)
-[![MCP](https://img.shields.io/badge/Model_Context_Protocol-Anthropic-orange?style=for-the-badge)]()
-[![AI Agents](https://img.shields.io/badge/AI_Agents-Architecture-blueviolet?style=for-the-badge)]()
-[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Certified-000000?style=for-the-badge&logo=github&logoColor=white)]()
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)]()
 
 #### 🌐 Modern Frontend
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
-[![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)]()
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 
-#### 🗄️ Data & Cloud Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoft-azure-sql-database&logoColor=white)]()
-[![Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-4479A1?style=for-the-badge&logo=azure-cosmos-db&logoColor=white)]()
-[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)]()
+#### 🗄️ Data & Storage
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]()
+
+#### ☁️ Cloud, Security & DevOps
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)]()
 
 ---
 
@@ -55,5 +42,4 @@ Con más de diez años de experiencia transformando ideas en código, hoy me enf
 ---
 
 ### 📫 Contacto
-* **LinkedIn:** [Tu Perfil Aquí]
-* **Web/Blog:** [Tu Web Aquí]
+* **LinkedIn:** [[raulmaciastrejo](https://www.linkedin.com/in/raulmaciastrejo/)]
