@@ -8,7 +8,7 @@ Desarrollador de software con sólida experiencia transformando requerimientos c
 ### 🚀 Mi Enfoque Actual
 * **Backend:** Desarrollo de APIs y lógica de negocio sólida utilizando **.NET Core** y C#.
 * **Frontend:** Creación de páneles interactivos y componentes dinámicos (como tableros Kanban) con **React** y **TypeScript**.
-* **Bases de Datos:** Diseño de esquemas eficientes, optimización de consultas y automatización mediante triggers y lógica en **SQL Server**.
+* **Bases de Datos:** Diseño y optimización de bases de datos relacionales avanzadas (**SQL Server**), modelado de datos, optimización de consultas complejas y automatización con lógica interna, manteniendo flexibilidad para la integración de soluciones **NoSQL**.
 * **Cloud** & **DevOps**: Gestión de servicios en entornos **AWS** y **Azure**, y containerización de arquitecturas con **Docker**.
 * **Continuous Learning:** Actualmente expandiendo horizontes en el ecosistema Cloud hacia la certificación **AWS Certified Developer – Associate** y perfeccionando mi **inglés** profesional.
 
